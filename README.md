@@ -3,6 +3,6 @@ Simple function for check pairs open - close symbols in the string
 
 Supported pairs: ( ), { }, [ ], < >
  
-Run test
+<b>Run test</b>
 
-php ./tests/testCheck.php 
+```php ./tests/testCheck.php```
