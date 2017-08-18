@@ -2,7 +2,7 @@
 
 /**
  * Check string for correct open and close pairs 
- * Supports pairs: (), {}, [], <>
+ * Support pairs: (), {}, [], <>
  *
  * @param string $str
  * @return bool | trow Exception
